@@ -28,7 +28,6 @@
 
 **Dribblify** is an Open Source API for soccer information about Leagues & Cups.
 
-
 ## Installation
 
 ```bash
